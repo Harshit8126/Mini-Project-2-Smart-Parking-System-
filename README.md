@@ -29,3 +29,11 @@
 
 ## Language
 1. Python
+
+## Objectives
+
+** The objectives of this research project are as follows: - **
+1. To design an automatic parking system that provides information of empty parking spaces in the indoor parking area .
+2. To develop a prototype of smart parking system using  Raspberry Pi micro controller,  ir sensor  and servo motor.
+3. To evaluate the performance of developed prototype to provide information and facilitate the users to the location of empty parking spaces.
+4. To detect the vehicle number plate and send the data to the firebase
