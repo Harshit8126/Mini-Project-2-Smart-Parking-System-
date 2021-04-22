@@ -20,3 +20,9 @@
 •	Raspberry Pi (Mini-Computer)
 •	Webcam
 
+## Application Software
+1. Pycharm
+2. Raspbian OS : A free Debian-based OS optimized Pi’s with all basic programs and utilities we expect from a general-purpose operating system.
+
+## Back-end Software
+1. Google Firebase
