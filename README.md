@@ -26,3 +26,6 @@
 
 ## Back-end Software
 1. Google Firebase
+
+## Language
+1. Python
