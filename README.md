@@ -10,3 +10,13 @@
 ## Technologies Used
 1. Internet Of Things
 2. Machine Learning
+
+## Hardware Requirements
+•	Infra-Red (IR) sensors
+•	Personal Computer
+•	LCD Display
+•	Servo Motor
+•	Connecting Wires
+•	Raspberry Pi (Mini-Computer)
+•	Webcam
+
