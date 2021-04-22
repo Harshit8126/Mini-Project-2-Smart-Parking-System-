@@ -38,4 +38,8 @@
 3. To evaluate the performance of developed prototype to provide information and facilitate the users to the location of empty parking spaces.
 4. To detect the vehicle number plate and send the data to the firebase
 
+## Block Diagram of Smart Parking System
 ![BannerGIF](https://github.com/Harshit8126/Mini-Project-2-Smart-Parking-System-/blob/main/Project%20Docs/Screenshot%202021-04-22%20164651.png)
+
+## Flow Diagram of Project
+![BannerGIF](https://github.com/Harshit8126/Mini-Project-2-Smart-Parking-System-/blob/main/Project%20Docs/Screenshot%202021-04-22%20165345.png)
