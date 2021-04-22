@@ -43,3 +43,9 @@
 
 ## Flow Diagram of Project
 ![BannerGIF](https://github.com/Harshit8126/Mini-Project-2-Smart-Parking-System-/blob/main/Project%20Docs/Screenshot%202021-04-22%20165345.png)
+
+## Zero-level DFD
+![BannerGIF](https://github.com/Harshit8126/Mini-Project-2-Smart-Parking-System-/blob/main/Project%20Docs/Screenshot%202021-04-22%20165544.png)
+
+## First-level DFD 
+![BannerGIF](https://github.com/Harshit8126/Mini-Project-2-Smart-Parking-System-/blob/main/Project%20Docs/Screenshot%202021-04-22%20165818.png)
