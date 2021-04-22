@@ -37,3 +37,5 @@
 2. To develop a prototype of smart parking system using  Raspberry Pi micro controller,  ir sensor  and servo motor.
 3. To evaluate the performance of developed prototype to provide information and facilitate the users to the location of empty parking spaces.
 4. To detect the vehicle number plate and send the data to the firebase
+
+![BannerGIF](https://github.com/Harshit8126/Mini-Project-2-Smart-Parking-System-/blob/main/Project%20Docs/Screenshot%202021-04-22%20164651.png)
