@@ -1,4 +1,4 @@
-// Smart Parking System
+#Smart Parking System
 #include<Servo.h>
 
 #include <Wire.h>
